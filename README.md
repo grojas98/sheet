@@ -1,1 +1,2 @@
 # sheet
+brew install postgresql
