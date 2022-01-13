@@ -1,2 +1,2 @@
 # sheet
-brew install postgresql
+pip install psycopg2
